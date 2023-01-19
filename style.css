@@ -1,5 +1,41 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+header{  
+  text-align: center;
+}
+
+nav a{
+  margin-left: 10px;
+}
+
+section#featured-property p {
+  text-align: center;
+  margin: auto;
+  width: 800px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+section#details{
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+section#details{
+  margin: auto;
+}
+
+section#details div{ 
+  text-align: center;  
+  float: left;
+  background-color: red;
+  width: 25%;
 }
